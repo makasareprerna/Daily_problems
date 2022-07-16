@@ -1,6 +1,3 @@
-from tkinter.tix import ListNoteBook
-
-
 def addTwoNumbers(l1, l2):
         dummy = ListNoteBook()
         cur = dummy
